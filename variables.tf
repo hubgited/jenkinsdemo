@@ -10,5 +10,5 @@ variable "location" {
 
 variable "tags" {
   description = "tags name"
-  default = "demo"
+  name = "demo"
 }
